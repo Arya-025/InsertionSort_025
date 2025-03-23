@@ -15,5 +15,13 @@ void input()
 {
     break;
 }
+    else
+{
+    cout << "\nArray yang anda masukkan maksimal 20 elemen.\n";
 }
+}
+cout << endl;
+cout << "======================" << endl;
+cout << "masukkan element Array" << endl;
+cout << "======================" << endl;
 }
